@@ -81,7 +81,7 @@
         <mxCell id="rPZUZeOgQ-zUvtnAkyWY-33" value="......." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rPZUZeOgQ-zUvtnAkyWY-29">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rPZUZeOgQ-zUvtnAkyWY-34" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rPZUZeOgQ-zUvtnAkyWY-34" value="文本" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="335" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
